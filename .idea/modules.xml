@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/numPyBiblioteki2.iml" filepath="$PROJECT_DIR$/.idea/numPyBiblioteki2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PandasNauka1.iml" filepath="$PROJECT_DIR$/.idea/PandasNauka1.iml" />
+>>>>>>> 283e2e0 (Zadania Pandas)
     </modules>
   </component>
 </project>
